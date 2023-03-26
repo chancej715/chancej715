@@ -3,7 +3,8 @@
 ## About
 Hi, I'm Chance Johnson, a security consultant who enjoys breaking web applications and computer networks. 
 - Blog: https://chancej715.github.io/
-- Resume: https://chancej715.github.io/resume
+- Resume: https://chancej715.github.io/single-page-resume/
+- Website: https://chancej715.github.io/resume
 
 ## Posts
 - [Decode Network Packet Hex Dump](https://chancej715.github.io/2023/03/22/decode-network-packet-hex-dump.html)
