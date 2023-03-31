@@ -9,6 +9,9 @@ Hi, I'm Chance Johnson, a security consultant who enjoys breaking web applicatio
 ## Posts
 - [Decode Network Packet Hex Dump](https://chancej715.github.io/2023/03/22/decode-network-packet-hex-dump.html)
 
+## CTF Writeups
+All my CTF writeups can be found [here](https://chancej715.github.io/writeups).
+
 ## Education
 | Training                                        | Year |
 |:------------------------------------------------|:-----|
