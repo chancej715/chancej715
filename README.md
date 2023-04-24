@@ -9,6 +9,10 @@ Hi, I'm Chance Johnson, a security consultant who enjoys breaking web applicatio
 ## Posts
 - [Decode Network Packet Hex Dump](https://chancej715.github.io/2023/03/22/decode-network-packet-hex-dump.html)
 
+## Projects
+- [Raw Traffic](https://github.com/chancej715/raw-traffic)
+- [PowerShell TCP Socket File Transfer](https://github.com/chancej715/powershell-tcp-socket-file-transfer)
+
 ## CTF Writeups
 All my CTF writeups can be found [here](https://chancej715.github.io/writeups).
 
