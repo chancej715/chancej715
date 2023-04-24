@@ -13,7 +13,7 @@ Hi, I'm Chance Johnson, a security consultant who enjoys breaking web applicatio
 - [Raw Traffic](https://github.com/chancej715/raw-traffic)
 - [PowerShell TCP Socket File Transfer](https://github.com/chancej715/powershell-tcp-socket-file-transfer)
 
-## CTF Writeups
+## Writeups
 All my CTF writeups can be found [here](https://chancej715.github.io/writeups).
 
 ## Education
