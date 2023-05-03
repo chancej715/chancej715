@@ -15,7 +15,7 @@ Hi, I'm Chance Johnson, a security consultant who enjoys breaking web applicatio
 - [UnrealIRCd 3.2.8.1 Backdoor Command Execution](https://github.com/chancej715/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution)
 
 ## Writeups
-All my CTF writeups can be found [here](https://chancej715.github.io/writeups).
+All my writeups can be found [here](https://chancej715.github.io/writeups](https://chancej715.gitbook.io/writeups/).
 
 ## Proof of Concepts
 - [CVE-2010-2075](https://chancej715.github.io/2023/04/25/cve-2010-2075-poc.html)
