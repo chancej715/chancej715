@@ -7,6 +7,7 @@ Hi, I'm Chance Johnson, a security consultant who enjoys breaking web applicatio
 - Website: https://chancej715.github.io/website/
 
 ## Posts
+- [Steal KeePass 2.x < 2.54 Master Password](https://chancej715.github.io/2023/05/21/steal-keepass-2.x-2.54-master-password.html)
 - [Decode Network Packet Hex Dump](https://chancej715.github.io/2023/03/22/decode-network-packet-hex-dump.html)
 
 ## Projects
