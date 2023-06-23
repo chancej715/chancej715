@@ -28,7 +28,6 @@ All my writeups can be found [here](https://chancej715.gitbook.io/writeups/).
 | Offensive Security Certified Professional (OSCP)| 2023 |
 | Offensive Security Wireless Professional (OSWP) | 2023 |
 | Kali Linux Certified Professional (KLCP)        | 2023 |
-| HardvardX CS50x                                 | 2023 |
 
 ## Contact and Socials
 |Discord    |`chancej715#8034`                                       |
