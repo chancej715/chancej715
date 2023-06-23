@@ -30,7 +30,7 @@ All my writeups can be found [here](https://chancej715.gitbook.io/writeups/).
 | Kali Linux Certified Professional (KLCP)        | 2023 |
 
 ## Contact and Socials
-|Discord    |`chancej715#8034`                                       |
+|Discord    |`chancej715`                                       |
 |:----------|:-------------------------------------------------------|
 | Email     |`chancej715@gmail.com`                                  |
 | Twitter   | [@chancej715](https://twitter.com/chancej715)          |
